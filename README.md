@@ -1,5 +1,3 @@
-
-<!---
-SenukaDamketh/SenukaDamketh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hi i am Senuka Damketh.
+i am intrested in coding.
+i am teaching robotics.
